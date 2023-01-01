@@ -1,1 +1,2 @@
-# BOJ
+# tteia의 백준
+![3472392684702154544_20200612011142220](https://user-images.githubusercontent.com/121751114/210168312-e4e1ed9c-91c8-46c9-9648-88fdaa0a510a.JPG)
